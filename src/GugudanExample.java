@@ -25,8 +25,14 @@ public class GugudanExample {
 		
 		
 		
-		//피타고라스의 정의
-		
+		//피타고라스의 정리
+		int count = 0;
+		for (int x=1; x<=100; x++)
+			for (int y=1; y<=100; y++)
+				for (int z=1; z<=100; z++) {
+					
+				}
+					
 		
 		
 		
